@@ -9,7 +9,12 @@
 
 
 ```
-modificar el archivo .env con su respectivas keys
+npm install
+npm start
+```
+
+### MODIFICAR EL .ENV
+```
 npm install
 npm start
 ```
