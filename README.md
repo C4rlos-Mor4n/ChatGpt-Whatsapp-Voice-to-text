@@ -13,10 +13,10 @@ npm install
 npm start
 ```
 
-### MODIFICAR EL .ENV
+### MODIFICAR EL .env
 ```
-npm install
-npm start
+OPENAI_API_KEY_VOICE_TO_TEXT= //API DE VOICE TO TEXT OPEN AI https://platform.openai.com/docs/guides/speech-to-text/quickstart
+OPENAI_API_KEY=//API GPT
 ```
 
 ---
